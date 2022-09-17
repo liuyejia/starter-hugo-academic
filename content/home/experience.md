@@ -45,6 +45,15 @@ experience:
         * Cooperate with the AWS Personal Health Dashboard team to integrate EC2 Auto Scaling with their monitoring service
         * OnCall (Ops)
 
+  - title: Software Engineer Intern
+    company: Amazon Web Services
+    company_url: ''
+    location: Vancouver, Canada
+    date_start: '2017-05-15'
+    date_end: '2017-08-30'
+    description: |2-
+        * Build the Lifecycle Hook features in both backend and the AWS console
+
 design:
   columns: '2'
 ---

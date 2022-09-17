@@ -5,15 +5,11 @@ title: 'Enabling SQL-based Training Data Debugging for Federated Learning'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Weiyuan Wu
   - Lampros Flokas
+  - Weiyuan Wu
+  - admin
   - Jiannan Wang
   - Eugene Wu
-
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
 
 date: '2022'
@@ -27,8 +23,8 @@ publishDate: '2022-06-01T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Very Large Databases* 2022 
-publication_short: In *VLDB*
+publication: In *Proceedings of the 2022 International Conference on Management of Data (SIGMOD)* 2022 
+publication_short: In *SIGMOD* 2022
 
 # Display this page in the Featured widget?
 featured: true
@@ -38,7 +34,7 @@ featured: true
 #- name: OpenReview
 #url: https://openreview.net/forum?id=tVbJdvMxK2-
 
-url_pdf: 'https://www.vldb.org/pvldb/vol15/p388-wu.pdf'
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3514221.3517849'
 url_code: ''
 url_dataset: ''
 url_poster: ''

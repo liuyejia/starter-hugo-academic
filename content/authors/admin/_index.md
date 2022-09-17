@@ -18,7 +18,7 @@ bio: My research interests include continual learning and edge intelligence.
 interests:
   - Continual Learning
   - Distributed Systems
-  - Edge Intelligence Efficiency
+  - Efficiency on Edge Intelligence
 
 # Education to show in About widget
 education:
@@ -36,15 +36,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/yejia_liu
   - icon: github
     icon_pack: fab
     link: https://github.com/liuyejia
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/yejia-martha-liu-159410113/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=bST-gYQAAAAJ
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/yejia_liu
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -60,5 +63,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at the computer science department of UC Riverside. My research interest mainly lies in continual learning and efficient edge AI. Previously, I worked 
-in Amazon and Tencent as a software engineer.
+I am currently a second-year PhD student in the UC Riverside. My research interest mainly focus on continual learning, and efficient AI on distributed systems or edge devices. Previously, I worked 
+in Amazon and Tencent as a software engineer. Before that, I spent two delightful years in the Simon Fraser University and obtained my Master degree. 
+
+If you are interested in my publications (or experience), feel free to drop me an email :D
