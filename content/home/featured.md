@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Selected Publications
 subtitle: ''
 
 content:
@@ -19,9 +19,9 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ''
+    author: 'Yejia Liu, Wang Zhu, Shaolei Ren'
     category: ''
-    publication_type: ''
+    publication_type: 'NeurIPS 2022'
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc

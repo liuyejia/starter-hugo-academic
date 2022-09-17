@@ -26,11 +26,9 @@ experience:
     company: Tencent
     company_url: ''
     location: ShenZhen, China
-    date_start: '2019-08'
-    date_end: '2020-04'
+    date_start: '2019-08-01'
+    date_end: '2020-04-30'
     description: |2-
-        Tasks include:
-        
         * Design and build data migration scheduling system
         * Design and implement offline backup query interface for our NoSQL database
         * Ops
@@ -39,10 +37,9 @@ experience:
     company: Amazon Web Services
     company_url: ''
     location: Vancouver, Canada
-    date_start: '2018-09'
-    date_end: '2019-06'
-    description: Tasks include:
-        
+    date_start: '2018-09-01'
+    date_end: '2019-06-30'
+    description: |2-
         * Implement lazy loading mechanism to reduce excessive calls to EC2 LaunchTemplate services
         * Build the instance termination policies for auto scaling groups
         * Cooperate with the AWS Personal Health Dashboard team to integrate EC2 Auto Scaling with their monitoring service
