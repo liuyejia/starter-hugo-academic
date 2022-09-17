@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Work Experience
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Software Engineer
+    company: Tencent
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    location: ShenZhen, China
+    date_start: '2019-08'
+    date_end: '2020-04'
     description: |2-
-        Responsibilities include:
+        Tasks include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Design and build data migration scheduling system
+        * Design and implement offline backup query interface for our NoSQL database
+        * Ops
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Software Engineer
+    company: Amazon Web Services
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Vancouver, Canada
+    date_start: '2018-09'
+    date_end: '2019-06'
+    description: Tasks include:
+        
+        * Implement lazy loading mechanism to reduce excessive calls to EC2 LaunchTemplate services
+        * Build the instance termination policies for auto scaling groups
+        * Cooperate with the AWS Personal Health Dashboard team to integrate EC2 Auto Scaling with their monitoring service
+        * OnCall (Ops)
 
 design:
   columns: '2'
