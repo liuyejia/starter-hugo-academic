@@ -19,9 +19,9 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: 'Yejia Liu, Wang Zhu, Shaolei Ren'
+    author: ''
     category: ''
-    publication_type: 'NeurIPS 2022'
+    publication_type: ''
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
