@@ -1,19 +1,25 @@
 ---
-title: 'Navigating Memory Construction by Global Pseudo-Task Simulation for Continual Learning'
+title: 'Enabling SQL-based Training Data Debugging for Federated Learning'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Wang Zhu
-  - Shaolei Ren
-  
+  - Weiyuan Wu
+  - Lampros Flokas
+  - Jiannan Wang
+  - Eugene Wu
+
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+
 
 date: '2022'
 doi: ''
 
-publishDate: '2022-09-14T11:11:11Z'
+publishDate: '2022-06-01T11:11:11Z'
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -21,8 +27,8 @@ publishDate: '2022-09-14T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neural Information Processing Systems (NeurIPS)* 
-publication_short: In *NeurIPS* 2022
+publication: In *International Conference on Very Large Databases* 2022 
+publication_short: In *VLDB*
 
 # Display this page in the Featured widget?
 featured: true
@@ -32,7 +38,7 @@ featured: true
 #- name: OpenReview
 #url: https://openreview.net/forum?id=tVbJdvMxK2-
 
-url_pdf: 'https://openreview.net/forum?id=tVbJdvMxK2-'
+url_pdf: 'https://www.vldb.org/pvldb/vol15/p388-wu.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
