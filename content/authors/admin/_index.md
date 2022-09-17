@@ -63,7 +63,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a second-year PhD student in the UC Riverside. My research interest mainly focus on continual learning, and efficient AI on distributed systems or edge devices. Previously, I worked 
+I am currently a second-year PhD student in the UC Riverside. My research interest mainly lies in continual learning, and efficient AI on distributed systems or edge devices. Previously, I worked 
 in Amazon and Tencent as a software engineer. Before that, I spent two delightful years in the Simon Fraser University and obtained my Master degree. 
 
 If you are interested in my publications (or experience), feel free to drop me an email :D
