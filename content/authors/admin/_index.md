@@ -23,11 +23,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Student in Computer Science
+    - course: PhD Student in Computer Science, 2020-
       institution: UC Riverside
-    - course: MS in Computer Science
+    - course: MS in Computer Science, 2016-2018
       institution: Simon Fraser University
-    - course: BEng in Software Engineering
+    - course: BEng in Software Engineering, 2012-2016
       institution: South China University of Technology
      
 
