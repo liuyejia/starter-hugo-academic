@@ -23,11 +23,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Student in Computer Science, 2020-
+    - course: Ph.D. in Computer Science, 2020 - Present
       institution: UC Riverside
-    - course: MS in Computer Science, 2016-2018
+    - course: M.S. in Computer Science, 2016 - 2018
       institution: Simon Fraser University
-    - course: BEng in Software Engineering, 2012-2016
+    - course: B.Eng. in Software Engineering, 2012 - 2016
       institution: South China University of Technology
      
 
@@ -63,7 +63,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a second-year PhD student in the UC Riverside. My research interest mainly lies in continual learning, and efficient AI on distributed systems or edge devices. Previously, I worked 
-in Amazon and Tencent as a software engineer. Before that, I spent two delightful years in the Simon Fraser University and obtained my Master degree. 
+I am currently a second-year PhD student in the UC Riverside. My research interest mainly lies in continual learning and efficient AI on distributed systems. Previously, I worked 
+in Amazon and Tencent as a software engineer. Before that, I spent two delightful years in the Simon Fraser University and obtained my Master degree there. 
 
-If you are interested in my publications (or experience), feel free to drop me an email :D
+If you are interested in my publications (or work experience), feel free to drop me an email :D
