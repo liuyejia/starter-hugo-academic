@@ -23,7 +23,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science, 2020 - Present
+    - course: Ph.D. in Computer Science, 2021 - Present
       institution: UC Riverside
     - course: M.S. in Computer Science, 2016 - 2018
       institution: Simon Fraser University
