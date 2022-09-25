@@ -33,7 +33,7 @@ featured: true
 #url: https://openreview.net/forum?id=tVbJdvMxK2-
 
 #url_pdf: 'https://openreview.net/forum?id=tVbJdvMxK2-'
-url_pdf: publication/example/nav.pdf
+url_pdf: 'publication/example/nav.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
