@@ -32,7 +32,7 @@ featured: true
 #- name: OpenReview
 #url: https://openreview.net/forum?id=tVbJdvMxK2-
 
-url_pdf: ''
+url_pdf: 'publication/nuerips/gps_cl.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
