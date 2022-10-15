@@ -9,6 +9,9 @@ authors:
   - Wang Zhu
   - Shaolei Ren
   
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
 date: '2022'
 doi: ''
