@@ -1,5 +1,5 @@
 ---
-title: 'Enabling SQL-based Training Data Debugging for Federated Learning'
+title: 'Complaint-Driven Training Data Debugging at Interactive Speeds'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
