@@ -12,12 +12,13 @@ role: PhD Student
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include continual learning and edge intelligence.
+
+bio: Be Bold! Be Brave!
 
 # Interests to show in About widget
 interests:
   - Continual Learning
-  - Distributed Systems
+  - Robustness of Online Algorithms
   - Efficiency on Edge Intelligence
 
 # Education to show in About widget
@@ -63,7 +64,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a second-year PhD student in the UC Riverside, advised by Prof. Shaolei Ren. My research interest mainly lies in continual learning, robustness of online algorithms and efficiency on edge devices. Previously, I worked 
-in Amazon and Tencent as a software engineer. Before that, I spent two delightful years in the Simon Fraser University and obtained my Master degree there, advised by Prof. Oliver Schulte and Prof. Jiannan Wang. 
+I am currently a second-year PhD student in the UC Riverside, advised by [Prof. Shaolei Ren](https://intra.ece.ucr.edu/~sren/). My research interest mainly lies in continual learning, robustness of online algorithms and efficiency on edge intelligence. Previously, I worked 
+in Amazon and Tencent as a software engineer. Before that, I got my Master degree in the Simon Fraser University, advised by [Prof. Oliver Schulte](https://www.cs.sfu.ca/~oschulte/) and [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). 
 
-If you are interested in my publications (or work experience), feel free to drop me an email :D
+If you are interested in my publications or experience, feel free to drop me an email :D
