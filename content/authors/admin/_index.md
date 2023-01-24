@@ -63,7 +63,7 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a second-year PhD student in the UC Riverside. My research interest mainly lies in continual learning and efficient AI on distributed systems. Previously, I worked 
-in Amazon and Tencent as a software engineer. Before that, I spent two delightful years in the Simon Fraser University and obtained my Master degree there. 
+I am currently a second-year PhD student in the UC Riverside, advised by Prof. Shaolei Ren. My research interest mainly lies in continual learning, robustness of online algorithms and efficiency on edge devices. Previously, I worked 
+in Amazon and Tencent as a software engineer. Before that, I spent two delightful years in the Simon Fraser University and obtained my Master degree there, advised by Prof. Oliver Schulte and Prof. Jiannan Wang. 
 
 If you are interested in my publications (or work experience), feel free to drop me an email :D
