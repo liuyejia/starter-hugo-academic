@@ -22,8 +22,8 @@ publishDate: '2022-08-01T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Submission*
-publication_short: In *Submission* 
+publication: In *tinyML Research Symposium 2023*
+publication_short: In *tinyML Research Symposium 2023*
 
 # Display this page in the Featured widget?
 featured: true
