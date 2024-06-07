@@ -64,6 +64,6 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a PhD student at UC Riverside, advised by [Prof. Shaolei Ren](https://intra.ece.ucr.edu/~sren/). Previously, I worked at Amazon and Tencent as a Cloud Software Engineer. Before that, I got my Master degree in the Simon Fraser University, advised by [Prof. Oliver Schulte](https://www.cs.sfu.ca/~oschulte/) and [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). 
+I am currently pursuing my PhD at UC Riverside under the guidance of [Prof. Shaolei Ren](https://intra.ece.ucr.edu/~sren/). Previously, I held positions as a Cloud Software Engineer at Amazon and Tencent. Prior to that, I completed my Master's degree at Simon Fraser University, where I was advised by [Prof. Oliver Schulte](https://www.cs.sfu.ca/~oschulte/) and [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). My undergraduate studies were at South China University of Technology.
 
-In my leisure time, I enjoy traveling, playing the [GuZheng](https://en.wikipedia.org/wiki/Guzheng), and savoring delicious food 😀. 
+During my leisure time, I enjoy traveling, playing the [GuZheng](https://en.wikipedia.org/wiki/Guzheng), and relishing delicious cuisine 😊.
