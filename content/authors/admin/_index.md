@@ -64,7 +64,6 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a second-year PhD student in the UC Riverside, advised by [Prof. Shaolei Ren](https://intra.ece.ucr.edu/~sren/). My research interest mainly lies in continual learning, robustness of online algorithms and efficiency on edge intelligence. Previously, I worked 
-in Amazon and Tencent as a software engineer. Before that, I got my Master degree in the Simon Fraser University, advised by [Prof. Oliver Schulte](https://www.cs.sfu.ca/~oschulte/) and [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). 
+I am currently a PhD student at UC Riverside, advised by [Prof. Shaolei Ren](https://intra.ece.ucr.edu/~sren/). Previously, I worked at Amazon and Tencent as a Cloud Software Engineer. Before that, I got my Master degree in the Simon Fraser University, advised by [Prof. Oliver Schulte](https://www.cs.sfu.ca/~oschulte/) and [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). 
 
-If you are interested in my publications or experience, feel free to drop me an email :D
+In my leisure time, I enjoy traveling, playing the [GuZheng](https://en.wikipedia.org/wiki/Guzheng), and savoring delicious food 😀. If you are interested in my academic publications or professional experience, feel free to drop me an email.

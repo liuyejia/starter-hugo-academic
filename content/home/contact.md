@@ -19,7 +19,7 @@ content:
  
 
   # Contact details (edit or remove options as required)
-  email: yliu807 at ucr dot edu
+  email: yejialiu888 at gmail dot com
   
   
 
