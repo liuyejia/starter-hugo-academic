@@ -17,8 +17,8 @@ bio: Be Bold! Be Brave!
 
 # Interests to show in About widget
 interests:
+  - Responsible AI
   - Continual Learning
-  - Robustness of Online Algorithms
   - Efficiency on Edge Intelligence
 
 # Education to show in About widget
@@ -66,4 +66,4 @@ highlight_name: true
 
 I am currently a PhD student at UC Riverside, advised by [Prof. Shaolei Ren](https://intra.ece.ucr.edu/~sren/). Previously, I worked at Amazon and Tencent as a Cloud Software Engineer. Before that, I got my Master degree in the Simon Fraser University, advised by [Prof. Oliver Schulte](https://www.cs.sfu.ca/~oschulte/) and [Prof. Jiannan Wang](https://www.cs.sfu.ca/~jnwang/). 
 
-In my leisure time, I enjoy traveling, playing the [GuZheng](https://en.wikipedia.org/wiki/Guzheng), and savoring delicious food 😀. If you are interested in my academic publications or professional experience, feel free to drop me an email.
+In my leisure time, I enjoy traveling, playing the [GuZheng](https://en.wikipedia.org/wiki/Guzheng), and savoring delicious food 😀. 
