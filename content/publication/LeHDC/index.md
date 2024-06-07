@@ -22,7 +22,7 @@ publishDate: '2022-06-01T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Design Automation Conference (DAC)* 2022 
+publication: DAC, 2022 
 publication_short: In *DAC* 2022
 
 # Display this page in the Featured widget?

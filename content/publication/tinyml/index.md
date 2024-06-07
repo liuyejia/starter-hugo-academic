@@ -22,7 +22,7 @@ publishDate: '2022-08-01T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *tinyML* 2023
+publication: TinyML, 2023
 publication_short: In *tinyML* 2023
 
 # Display this page in the Featured widget?

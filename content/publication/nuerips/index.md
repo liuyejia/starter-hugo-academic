@@ -24,7 +24,7 @@ publishDate: '2022-09-14T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neural Information Processing Systems (NeurIPS)* 
+publication: NeurIPS, 2022 
 publication_short: In *NeurIPS* 2022
 
 # Display this page in the Featured widget?

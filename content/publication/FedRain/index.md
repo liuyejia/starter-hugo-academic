@@ -27,7 +27,7 @@ publishDate: '2022-07-01T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Very Large Databases* 2022 
+publication:VLDB, 2022 
 publication_short: In *VLDB* 2022
 
 # Display this page in the Featured widget?

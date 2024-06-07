@@ -23,7 +23,7 @@ publishDate: '2022-06-01T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 2022 International Conference on Management of Data (SIGMOD)* 2022 
+publication: SIGMOD, 2022 
 publication_short: In *SIGMOD* 2022
 
 # Display this page in the Featured widget?

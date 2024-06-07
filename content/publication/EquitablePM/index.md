@@ -22,7 +22,7 @@ publishDate: '2024-05-29T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Machine Learning * 
+publication: ICML, 2024
 publication_short: In *ICML* 2024
 
 # Display this page in the Featured widget?
