@@ -37,7 +37,7 @@ experience:
     date_end: '2023-09-08'
   
   - title: Software Engineer
-    company: Tencent
+    company: Tencent Cloud Infra
     company_url: ''
     location: ShenZhen, China
     date_start: '2019-08-01'
