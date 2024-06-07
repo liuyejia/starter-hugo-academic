@@ -34,7 +34,7 @@ featured: true
 #url: https://openreview.net/forum?id=tVbJdvMxK2-
 
 url_pdf: 'https://arxiv.org/abs/2406.02790'
-url_code: ''
+url_code: 'https://github.com/Ren-Research/Socially-Equitable-Public-Models'
 url_dataset: ''
 url_poster: ''
 url_project: ''

@@ -40,7 +40,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://nips.cc/media/neurips-2022/Slides/54048.pdf'
 url_source: ''
 url_video: ''
 
