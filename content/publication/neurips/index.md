@@ -29,7 +29,7 @@ publication_short: In *NeurIPS* 2022
 
 # Display this page in the Featured widget?
 featured: true
-
+slides: ""
 # Custom links (uncomment lines below)
 #links:
 #- name: OpenReview
