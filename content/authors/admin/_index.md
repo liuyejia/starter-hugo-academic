@@ -46,9 +46,12 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=bST-gYQAAAAJ
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/yejia_liu
+
+[//]: # (  - icon: twitter)
+
+[//]: # (    icon_pack: fab)
+
+[//]: # (    link: https://twitter.com/yejia_liu)
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
