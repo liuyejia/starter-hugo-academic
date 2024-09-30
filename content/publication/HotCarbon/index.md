@@ -1,13 +1,13 @@
 ---
-title: 'Towards Socially and Environmentally Responsible AI'
+title: 'Geographical Server Relocation: Opportunities and Challenges'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Pengfei Li
   - admin
-  - Jianyi Yang
+  - Pengfei Li
+  - Daniel Wong
   - Shaolei Ren
 
 author_notes:
@@ -17,7 +17,7 @@ author_notes:
 date: ''
 doi: ''
 
-publishDate: '2024-04-29T11:11:11Z'
+publishDate: '2024-04-30T11:11:11Z'
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -25,18 +25,18 @@ publishDate: '2024-04-29T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: HotEthics, 2024
-publication_short: Workshop on Hot Topics in Ethical Computer Systems, ASPLOS 2024.
+publication: HotCarbon, 2024
+publication_short: HotCarbon (Workshop on Sustainable Computer Systems, OSDI 2024)
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-#links:
-#- name: OpenReview
-#url: https://openreview.net/forum?id=tVbJdvMxK2-
+links:
+- name: HotCarbon
+  url: https://hotcarbon.org/program
 
-url_pdf: 'https://arxiv.org/abs/2407.05176'
+url_pdf: 'https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final20.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
