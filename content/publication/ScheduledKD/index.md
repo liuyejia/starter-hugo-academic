@@ -1,23 +1,20 @@
 ---
-title: 'Towards Socially and Environmentally Responsible AI'
+title: 'Scheduled Knowledge Acquisition on Lightweight Vector Symbolic Architectures for Brain-Computer Interfaces'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Pengfei Li
   - admin
-  - Jianyi Yang
+  - Shijin Duan
+  - Xiaolin Xu
   - Shaolei Ren
 
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  
-date: ''
+
+date: '2024'
 doi: ''
 
-publishDate: '2024-04-29T11:11:11Z'
+publishDate: '2024-02-01T11:11:11Z'
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
@@ -25,18 +22,18 @@ publishDate: '2024-04-29T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication:  Workshop on Hot Topics in Ethical Computer Systems
-publication_short: In *HotEthics* 2024 (co-located with ASPLOS)
+publication: TinyML, 2024
+publication_short: In *TinyML* 2024
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: HotEthics2024
-  url: https://hotethics.github.io/
+#links:
+#- name: OpenReview
+#url: https://openreview.net/forum?id=tVbJdvMxK2-
 
-url_pdf: 'https://arxiv.org/abs/2407.05176'
+url_pdf: 'https://arxiv.org/abs/2403.13844'
 url_code: ''
 url_dataset: ''
 url_poster: ''

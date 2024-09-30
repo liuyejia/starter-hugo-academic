@@ -36,15 +36,15 @@ experience:
     date_start: '2023-06-20'
     date_end: '2023-09-08'
   
-  - title: Software Engineer
+  - title: Software Engineer (Full-Time)
     company: Tencent Cloud Infra
     company_url: ''
     location: ShenZhen, China
     date_start: '2019-08-01'
     date_end: '2020-04-30'
     
-  - title: Software Engineer
-    company: Amazon Web Services
+  - title: Software Engineer (Full-Time)
+    company: Amazon Web Services, Amazon
     company_url: ''
     location: Vancouver, Canada
     date_start: '2018-09-01'

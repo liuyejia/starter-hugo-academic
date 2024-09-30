@@ -26,7 +26,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: Workshop on Sustainable Computer Systems
-publication_short: In *HotCarbon* 2024 (Co-located with OSDI)
+publication_short: In *HotCarbon* 2024 (co-located with OSDI)
 
 
 # Display this page in the Featured widget?
