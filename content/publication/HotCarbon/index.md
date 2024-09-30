@@ -25,8 +25,9 @@ publishDate: '2024-04-30T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: HotCarbon, 2024
-publication_short: HotCarbon (Workshop on Sustainable Computer Systems, OSDI 2024)
+publication: Workshop on Sustainable Computer Systems
+publication_short: In *HotCarbon* 2024 (Co-located with OSDI)
+
 
 # Display this page in the Featured widget?
 featured: true

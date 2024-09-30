@@ -25,8 +25,8 @@ publishDate: '2024-04-29T11:11:11Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: HotEthics, 2024
-publication_short: Workshop on Hot Topics in Ethical Computer Systems, ASPLOS 2024.
+publication:  Workshop on Hot Topics in Ethical Computer Systems
+publication_short: In *HotEthics* 2024 (Co-located with ASPLOS)
 
 # Display this page in the Featured widget?
 featured: true
