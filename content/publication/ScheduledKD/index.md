@@ -29,9 +29,9 @@ publication_short: In *TinyML* 2024
 featured: true
 
 # Custom links (uncomment lines below)
-#links:
-#- name: OpenReview
-#url: https://openreview.net/forum?id=tVbJdvMxK2-
+links:
+- name: TinyML
+  url: https://www.tinyml.org/event/research-symposium-2024/
 
 url_pdf: 'https://arxiv.org/abs/2403.13844'
 url_code: ''

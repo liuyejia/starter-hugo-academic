@@ -23,15 +23,15 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: TinyML, 2023
-publication_short: In *tinyML* 2023
+publication_short: In *TinyML* 2023
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-#links:
-#- name: OpenReview
-#url: https://openreview.net/forum?id=tVbJdvMxK2-
+links:
+- name: TinyML
+  url: 
 
 url_pdf: '/publication/tinyml/MetaLDC-tinyML-v4.pdf'
 url_code: ''
