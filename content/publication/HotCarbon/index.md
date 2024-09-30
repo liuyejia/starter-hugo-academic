@@ -10,9 +10,9 @@ authors:
   - Daniel Wong
   - Shaolei Ren
 
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
   
 date: ''
 doi: ''
